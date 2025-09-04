@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "hamutils",
+    "name": "HamUtils",
+    "description": "Hammon Utils mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["Shadowmachete"],
+    "credits": "",
+    "url": "",
+    "updateUrl": "",
+    "screenshots": [],
+    "dependencies": [ "required-after:hypixel_mod_api" ]
+  }
+]
