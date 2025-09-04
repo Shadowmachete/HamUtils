@@ -1,4 +1,4 @@
-# [HamUtils]
+# HamUtils
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.8.9-blue)](https://www.minecraft.net/en-us)
 [![Forge Version](https://img.shields.io/badge/Forge-11.15.1.2318-green)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
