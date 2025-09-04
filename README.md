@@ -19,7 +19,7 @@ Utilities mod for Hammon on Hypixel.
 1. Make sure you have **Minecraft 1.8.9** installed.
 2. Install **Forge 1.8.9**: [Forge Downloads](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html).
 3. Download the **Hypixel Mod Api 1.0.1.2**: [Hypixel Mod Api](https://modrinth.com/mod/hypixel-mod-api/versions).
-4. Download the latest version of **HamUtils**.
+4. Download the latest version of **HamUtils**: [HamUtils](https://github.com/Shadowmachete/HamUtils/releases).
 5. Place both `.jar` files into your `mods` folder:
     - Windows: `%appdata%\.minecraft\mods`
     - macOS: `~/Library/Application Support/minecraft/mods`
