@@ -2,3 +2,4 @@ key.categories.hamutils=Hammon's Utils
 key.hamutils.incrementWin=Increment Wins
 key.hamutils.decrementWin=Decrement Wins
 key.hamutils.toggleTimer=Toggle the timer
+key.hamutils.resetTimer=Reset the timer

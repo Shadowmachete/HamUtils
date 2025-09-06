@@ -10,7 +10,10 @@ Utilities mod for Hammon on Hypixel.
 ## Features
 
 - **Win rate tracker:** Tracks minutes per win to observe queue times
+- **Win counter:** Increment and decrement wins with hotkeys (default `-` and `=` keys)
 - **Auto /pr:** Automatically runs /pr on joining a parkour duels lobby
+- **Foliage Hider**: Hides foliage for better visibility in parkour duels on Hypixel (especially for Atlantis)
+- **Hide Players**: Hides other players in parkour duels for better visibility (toggleable with `z` key by default)
 
 ---
 
@@ -30,7 +33,11 @@ Utilities mod for Hammon on Hypixel.
 
 ## Usage
 
-- Use default keys `0`, `-` and `=` to start / pause the timer, decrement and increment wins respectively
+- Use `0` key to start / pause / continue timer
+- Use `9` key to reset timer
+- Use `-` key to decrement wins
+- Use `=` key to increment wins
+- Use `z` key to toggle player visibility
  
 ---
 
